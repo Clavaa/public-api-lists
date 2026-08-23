@@ -681,6 +681,7 @@
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources) | The Daily Journal of the United States Government                                         |    No    |  Yes  | Unknown |
 | [Japan Neighborhoods](https://japanneighborhoods.com/developers) | Tokyo neighborhood crime statistics, safety scores, and station data (5,078 areas, 2018-2024) |    No    |  Yes  |   Yes   |
 | [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip) | French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET | No | Yes | Unknown |
+| [Offendersearch](https://offendersearch.app/docs) | Search all 58 US sex-offender registries (all states, DC, territories) in one call; scored records with official registry citations; free tier | `apiKey` | Yes | Unknown |
 |               [Open Government, Australia](https://www.data.gov.au/)                | Australian Government Open Data                                                           |    No    |  Yes  | Unknown |
 |                  [Open Government, Belgium](https://data.gov.be/)                   | Belgium Government Open Data                                                              |    No    |  Yes  | Unknown |
 |                 [Open Government, Canada](http://open.canada.ca/en)                 | Canadian Government Open Data                                                             |    No    |  No   | Unknown |
